@@ -1,0 +1,16 @@
+[
+    {
+        "image": "0203_075.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1319.157894736842,
+                    "y": 989.1578947368421,
+                    "width": 1926.0,
+                    "height": 1284.0
+                }
+            }
+        ]
+    }
+]

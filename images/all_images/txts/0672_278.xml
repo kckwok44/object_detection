@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>0672_278.jpg</filename>
+	<path>/Users/benkwok/table_detection/borderless_tbls_detection/images/all_images/0672_278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>3300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boardless</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1363</xmin>
+			<ymin>453</ymin>
+			<xmax>2338</xmax>
+			<ymax>2013</ymax>
+		</bndbox>
+	</object>
+</annotation>

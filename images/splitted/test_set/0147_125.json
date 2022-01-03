@@ -1,0 +1,25 @@
+[
+    {
+        "image": "0147_125.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1335.157894736842,
+                    "y": 595.1578947368421,
+                    "width": 2058.0,
+                    "height": 642.0
+                }
+            },
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1296.157894736842,
+                    "y": 1284.157894736842,
+                    "width": 1042.0,
+                    "height": 536.0
+                }
+            }
+        ]
+    }
+]

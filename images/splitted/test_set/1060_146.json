@@ -1,1 +1,16 @@
-[{"image": "1060_146.png", "annotations": [{"label": "borderless", "coordinates": {"x": 1622.0, "y": 1179.0, "width": 2680.0, "height": 1364.0}}]}]
+[
+    {
+        "image": "1060_146.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1624.0,
+                    "y": 1232.0,
+                    "width": 2688.0,
+                    "height": 1828.0
+                }
+            }
+        ]
+    }
+]

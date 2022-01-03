@@ -1,0 +1,16 @@
+[
+    {
+        "image": "0672_278.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1850.5,
+                    "y": 1233.0,
+                    "width": 975.0,
+                    "height": 1560.0
+                }
+            }
+        ]
+    }
+]

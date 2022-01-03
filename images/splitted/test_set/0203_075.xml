@@ -1,14 +1,14 @@
 <annotation>
 	<folder>all_images</folder>
-	<filename>0203_075.png</filename>
-	<path>/Users/benkwok/table_detection/borderless_tbls_detection/images/all_images/0203_075.png</path>
+	<filename>0203_075.jpg</filename>
+	<path>/Users/benkwok/table_detection/borderless_tbls_detection/images/all_images/splitted/test_set/0203_075.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>2544</width>
 		<height>3300</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>342</xmin>
-			<ymin>557</ymin>
-			<xmax>2288</xmax>
-			<ymax>1508</ymax>
+			<xmin>356</xmin>
+			<ymin>347</ymin>
+			<xmax>2282</xmax>
+			<ymax>1631</ymax>
 		</bndbox>
 	</object>
 </annotation>

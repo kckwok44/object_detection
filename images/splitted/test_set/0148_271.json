@@ -1,0 +1,16 @@
+[
+    {
+        "image": "0148_271.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1232.657894736842,
+                    "y": 886.1578947368421,
+                    "width": 1711.0,
+                    "height": 1184.0
+                }
+            }
+        ]
+    }
+]

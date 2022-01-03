@@ -1,0 +1,25 @@
+[
+    {
+        "image": "0146_281.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1211.157894736842,
+                    "y": 947.6578947368421,
+                    "width": 1258.0,
+                    "height": 1263.0
+                }
+            },
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1240.157894736842,
+                    "y": 2044.657894736842,
+                    "width": 1432.0,
+                    "height": 837.0
+                }
+            }
+        ]
+    }
+]

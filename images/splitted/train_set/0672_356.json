@@ -1,1 +1,16 @@
-[{"image": "0672_356.png", "annotations": []}]
+[
+    {
+        "image": "0672_356.jpg",
+        "annotations": [
+            {
+                "label": "borderless",
+                "coordinates": {
+                    "x": 1014.1578947368421,
+                    "y": 1179.157894736842,
+                    "width": 1206.0,
+                    "height": 400.0
+                }
+            }
+        ]
+    }
+]
