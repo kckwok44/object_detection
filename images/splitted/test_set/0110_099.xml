@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_images</folder>
+	<filename>0110_099.png</filename>
+	<path>/Users/benkwok/table_detection/borderless_tbls_detection/images/all_images/0110_099.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2544</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>borderless</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>1666</ymin>
+			<xmax>2315</xmax>
+			<ymax>2620</ymax>
+		</bndbox>
+	</object>
+</annotation>
